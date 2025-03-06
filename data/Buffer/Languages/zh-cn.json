@@ -1,0 +1,161 @@
+{
+    "_IMPORTANT_NOTE": "If multiple items have the same value but control different things, you need to make them different by using spaces",
+    
+    
+    "window":{
+        "toggle_button": "启动加成界面",
+        "title": "调整 & 设置",
+        "settings": "设置",
+        "language": "语言",
+        "font_size": "字体大小",
+        "font_size_apply": "应用",
+        "about": "关于",
+        "author": "OvationP",
+        "translator": "中文",
+        "version": "1.0"
+    },
+    "base": {
+        "disabled": "不启用"        
+    },
+    
+    "character": {
+        "title": "角色",
+        "stamina": {
+            "title": "耐力",
+            "max": "最大耐力",
+            "unlimited": "无限耐力"
+        },
+        "health": {
+            "title": "生命值",
+            "max": "最大生命值",
+            "unlimited": "无限生命值",
+            "healing": "生命回复",
+            "healing_tooltip": "任何已损失生命都变得可恢复."
+        },
+        "blights_and_conditions":{
+            "title": "元素弱化 & 异常状态",
+            "tooltip": "预防病害和疾病",
+            "blights": {
+                "title": "元素弱化",
+                "fire": "火",
+                "water": "水",
+                "ice": "冰",
+                "thunder": "雷电",
+                "dragon": "龙",
+                "all": "全部"
+            },
+            "conditions":{
+                "title": "异常状态",
+                "poison": "中毒",
+                "sleep": "睡眠",
+                "paralyze": "瘫痪",
+                "blast": "爆破",
+                "stun": "眩晕",
+                "defense_down": "降低防御",
+                "bleed": "流血",
+                "stench": "恶臭",
+                "sticky": "湿滑",
+                "frenzy": "狂乱",
+                "frozen": "冻结",
+                "all": "全部 "
+            }            
+        },
+        "item_buffs": {
+            "title": "物品Buff",
+            "might_pill": "怪力果实",
+            "adamant_pill": "硬化果实",
+            "demon_powder": "鬼人粉尘",
+            "hardshell_powder": "硬化粉尘",
+            "cool_drink": "冷饮",
+            "hot_drink": "热饮",
+            "dash_juice": "闪避果汁",
+            "imunizer": "免疫"
+        },
+        "unlimited_sharpness": "无限武器锐利度"
+    },
+
+    "great_sword": {
+        "title": "大剑",
+        "true_charge_boost": "真蓄加速",
+        "true_charge_boost_tooltip": "首次命中真蓄加成",
+        "instant_charge": "立刻蓄力"
+    },
+    "sword_and_shield": {
+        "title": "片手剑"
+    },
+    "dual_blades": {
+        "title": "双刀",
+        "demon_gauge": "满鬼人曹",
+        "demon_boost": "启用鬼人加成"
+    },
+    "long_sword": {
+        "title": "太刀",
+        "aura_level": "光环等级",
+        "aura_level_tooltip": "如果从 0 设置为 1，则需要填充曹才能激活光环",
+        "max_aura_gauge": "最大光环曹",
+        "max_spirit_gauge": "最大精力曹"
+    },
+    "insect_glaive": {
+        "title": "操虫棍",
+        "kinsect": {
+            "title": "金虫",
+            "power": "力量",
+            "speed": "速度",
+            "recovery": "恢复",
+            "unlimited_stamina": "无限耐力"
+        },
+        "red": "红",
+        "orange": "橙",
+        "white": "白",
+        "infinite_air_dashes": "无限空中跳跃"
+    },
+
+    "hammer": {
+        "title": "大锤",
+        "instant_charge": "瞬间蓄力"
+    },
+    "hunting_horn": {
+        "title": "狩猎笛"
+    },
+    
+    "lance": {
+        "title": "骑枪",
+        "counter_charge_level": "反制蓄力等级",
+        "rush_level": "冲刺等级",
+        "infinite_backstep": "无限后撤步"
+    },
+    "gunlance": {
+        "title": "铳枪",
+        "shell_level": "护盾等级",
+        "infinite_wyvern_fire": "无限飞龙火焰",
+        "infinite_backstep": "无限后撤步",
+        "instant_charge": "瞬间蓄力", 
+        "instant_charge_tooltip": "需要按住一会后放开才能开火",
+        "free_charge_shot": "无消耗充能射击"
+    },
+
+    "bow": {
+        "title": "弓"
+    },
+    "light_bowgun": {
+        "title": "轻弩"
+    },
+    "heavy_bowgun": {
+        "title": "重弩"
+    },
+
+    "charge_blade": {
+        "title": "盾斧",
+        "max_phials": "满瓶",
+        "overcharge_phials": "超蓄瓶",
+        "shield_enhanced": "护盾强化",
+        "sword_enhanced": "刀形态强化",
+        "axe_enhanced": "斧形态强化"
+    },
+    "switch_axe": {
+        "title": "斩斧",
+        "max_charge": "最大充能",
+        "max_sword_charge": "最大剑形态充能",
+        "powered_axe": "最大斧形态充能"
+    }
+}
